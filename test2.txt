@@ -1,2 +1,2 @@
  harikuttygit up-to-dateup-to-dateup-to-date
- git <i class="fa fa-sort-amount-asc" aria-hidden="true"></i>
+ git <i font="fafa-sort-amount-asc" aria-hidden="true"></i>
