@@ -21,14 +21,11 @@ function displayTime(){
 function padZero(num){
     return num<10?"0"+num:num
 }
-
 setInterval(displayTime, 10)
 let weekday = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
 
 let d = new Date();
 let Day = weekday[d.getUTCDay()];
-
-
 
 function tatkalBook() {
     return new Promise((resolve, reject) => {
